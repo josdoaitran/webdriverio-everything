@@ -32,7 +32,7 @@ v15.11.0
 
 ```
 ❯ npm init -y
-Wrote to /Users/doaitran/Documents/Coding/webdriverio-everything/simple_project/package.json:
+Wrote to /Users/...../Documents/Coding/webdriverio-everything/simple_project/package.json:
 
 {
   "name": "simple_project",
