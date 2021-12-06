@@ -16,4 +16,11 @@ Advance level:
 - Sync vs Async mode ?
 
 # NodeJs setup:
+https://nodejs.org/en/download/
 
+Check Nodejs:
+
+```
+❯ node --version
+v15.11.0
+```
