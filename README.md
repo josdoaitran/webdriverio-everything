@@ -13,8 +13,9 @@ Beginer level:
 
 Advance level:
 
-- BDD with Webdriverio.
-- Sync vs Async mode ?
+- BDD with Webdriverio and test framework: [Link text Here](https://webdriver.io/docs/frameworks/)
+- Sync vs Async mode: [Link text Here](https://webdriver.io/docs/sync-vs-async/)
+
 
 # NodeJs setup:
 
