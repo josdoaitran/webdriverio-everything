@@ -30,22 +30,13 @@ Check Nodejs:
 v15.11.0
 ```
 
-## Create NodeJs project:
+## Create NodeJs project and all Webdriverio:
+
+To add a full WebdriverIO setup to an existing or new project using the WebdriverIO Starter Toolkit, run:
+
+Using NPM, If you're in the root directory of an existing project, run:
 
 ```
-❯ npm init -y
-Wrote to /Users/...../Documents/Coding/webdriverio-everything/simple_project/package.json:
-
-{
-  "name": "simple_project",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+npm init wdio .
 
 ```
