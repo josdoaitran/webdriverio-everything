@@ -20,7 +20,15 @@ In the OS X terminal you need to type:
 You need to type the following command in the terminal
 
 `curl -o- -L https://yarnpkg.com/install.sh | bash`
+
 NOTE: the above command works for both Linux and macOS.
+
+## Ubuntu/Debian (Linux)
+*Method 1: Using npm manager.*
+
+It’s valid to use the standard method to install with npm, using the following commands in the terminal
+
+`npm install --global yarn`
 
 
 ## Referencess:
