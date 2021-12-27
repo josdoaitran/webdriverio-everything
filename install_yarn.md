@@ -30,6 +30,21 @@ It’s valid to use the standard method to install with npm, using the following
 
 `npm install --global yarn`
 
+*Method 2: Using curl.*
+
+Step 1: You can install it with the Debian package repository by first configuring the repository first using the following commands.
+
+```
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+```
+How to install Yarn in MacOs/Ubuntu/Windows?
+Demo of the above 2 commands
+
+Step 2: And then once after successful install of the above command use
+
+`sudo apt install yarn`
+
 
 ## Referencess:
 https://www.geeksforgeeks.org/how-to-install-yarn-in-macos-ubuntu-windows/
