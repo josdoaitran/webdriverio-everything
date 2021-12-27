@@ -17,7 +17,8 @@ Advance level:
 - Sync vs Async mode: [Link text Here](https://webdriver.io/docs/sync-vs-async/)
 
 
-# NodeJs setup:
+# NodeJs setup and Webdriverio Get started
+Link: https://webdriver.io/docs/gettingstarted
 
 ## Install NodeJs
 https://nodejs.org/en/download/
