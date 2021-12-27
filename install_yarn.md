@@ -45,6 +45,13 @@ Step 2: And then once after successful install of the above command use
 
 `sudo apt install yarn`
 
+## Windows
+https://yarnpkg.com/package/windows-release
+
+Run this command:
+```
+npm install windows-release
+```
 
 ## Referencess:
 https://www.geeksforgeeks.org/how-to-install-yarn-in-macos-ubuntu-windows/
