@@ -50,4 +50,5 @@ https://www.npmjs.com/package/@wdio/cli
   }
 ```
 ## Javascript basic:
+https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript
 
