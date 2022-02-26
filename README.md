@@ -41,10 +41,7 @@ To add a full WebdriverIO setup to an existing or new project using the Webdrive
 
 Using NPM, If you're in the root directory of an existing project, run:
 
-```
-npm init wdio .
-
-```
+`npm init wdio .`
 We need to have WebdriverIO CLI on our project,
 https://www.npmjs.com/package/@wdio/cli
 ```
@@ -52,3 +49,5 @@ https://www.npmjs.com/package/@wdio/cli
     "@wdio/cli": "^7.16.12"
   }
 ```
+## Javascript basic:
+
