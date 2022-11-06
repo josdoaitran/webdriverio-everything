@@ -10,6 +10,9 @@ Beginer level:
 - Setup , Basic Javascript
 - First script with WebDriverio
 - JS Framework Develop from Scratch
+- Test Runner: Cross browser, Parallel execution.
+- Reports: Allure
+
 
 Advance level:
 
