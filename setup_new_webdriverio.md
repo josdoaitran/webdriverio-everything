@@ -40,3 +40,26 @@ We select `On my local machine`
 ❯ mocha 
   + jasmine 
   + cucumber
+? Which framework do you want to use? mocha
+? Do you want to use a compiler? No!
+? Where are your test specs located? ./test/specs/**/*.js
+? Do you want WebdriverIO to autogenerate some test files? Yes
+? Do you want to use page objects (https://martinfowler.com/bliki/PageObject.html)? Yes
+? Where are your page objects located? ./test/pageobjects/**/*.js
+? Which reporter do you want to use? spec, allure
+? Do you want to add a plugin to your test setup? wait-for
+? Do you want to add a service to your test setup? chromedriver
+? What is the base url? https://automationteststore.com/
+? Do you want me to run `npm install` Yes
+
+Installing wdio packages:
+- @wdio/local-runner
+- @wdio/mocha-framework
+- @wdio/spec-reporter
+- @wdio/allure-reporter
+- wdio-wait-for
+- wdio-chromedr
+
+=> WebDriverIO will auto-generate the examle test scripts.
+## Run example Web automation test with WebDriverio:
+Run this command: `npx wdio run wdio.conf.js` to trigger simple test to this site: https://the-internet.herokuapp.com/
