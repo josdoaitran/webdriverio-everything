@@ -5,7 +5,7 @@
 https://webdriver.io/
 Browser and Mobile application automation testing framework with NodeJS
 
-Beginer level:
+## Beginer level:
 
 - Setup , Basic Javascript
 - First script with WebDriverio
@@ -14,8 +14,9 @@ Beginer level:
 - Reports: Allure
 
 
-Advance level:
+## Advance level:
 
+- Webdriverio + Intergrate with Browser Stack.
 - BDD with Webdriverio and test framework: [Link text Here](https://webdriver.io/docs/frameworks/)
 - Sync vs Async mode: [Link text Here](https://webdriver.io/docs/sync-vs-async/)
 
@@ -38,20 +39,6 @@ v15.11.0
 
 ```
 
-## Create NodeJs project and all Webdriverio:
-
-To add a full WebdriverIO setup to an existing or new project using the WebdriverIO Starter Toolkit, run:
-
-Using NPM, If you're in the root directory of an existing project, run:
-
-`npm init wdio .`
-We need to have WebdriverIO CLI on our project,
-https://www.npmjs.com/package/@wdio/cli
-```
-"devDependencies": {
-    "@wdio/cli": "^7.16.12"
-  }
-```
 ## Javascript basic:
 https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript
 
