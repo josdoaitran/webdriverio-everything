@@ -1,7 +1,7 @@
 const LoginPage = require('../pageobjects/login.page');
 const SecurePage = require('../pageobjects/secure.page');
 
-describe('My Login application', () => {
+describe('Test Example - Login and Logout', () => {
     it('should login with valid credentials', async () => {
         await LoginPage.open();
 
