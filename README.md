@@ -14,7 +14,7 @@ Browser and Mobile application automation testing framework with NodeJS
 - Reports: Allure
 
 
-## Advance level:
+## Advanced level:
 
 - Webdriverio + Intergrate with Browser Stack.
 - BDD with Webdriverio and test framework: [Link text Here](https://webdriver.io/docs/frameworks/)
