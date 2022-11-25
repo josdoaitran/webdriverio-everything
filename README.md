@@ -39,6 +39,16 @@ v15.11.0
 
 ```
 
-## Javascript basic:
-https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript
+## WebdriverIO Sync Mode update:
+Reference: https://webdriver.io/docs/sync-vs-async/
 
+
+
+## Javascript basic:
+https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
+- Sync mode is disabled in node.js v16
+- Use `async/await`
+
+## Build tools:
+- npm
+- yarn
