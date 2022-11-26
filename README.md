@@ -21,34 +21,26 @@ Browser and Mobile application automation testing framework with NodeJS
 - Sync vs Async mode: [Link text Here](https://webdriver.io/docs/sync-vs-async/)
 
 
-# NodeJs setup and Webdriverio Get started
+## NodeJs setup and Webdriverio Get started
 Link: https://webdriver.io/docs/gettingstarted
 
-## Install NodeJs
-https://nodejs.org/en/download/
-https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm
+Detailed Steps: https://github.com/josdoaitran/webdriverio-everything/blob/main/setup_new_webdriverio.md
 
-Check Nodejs with command: `node --version` and `nom --version`
 
-```
-❯ node --version
-v15.11.0
-
-❯ npm --version
-7.6.0
-
-```
+## Run Test with WebDriverio:
+Run this command: `npx wdio run wdio.conf.js`
 
 ## WebdriverIO Sync Mode update:
 Reference: https://webdriver.io/docs/sync-vs-async/
-
+- Sync mode is disabled in node.js v16
+- Use `async/await` to interact with browsers / devices
 
 
 ## Javascript basic:
 https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
-- Sync mode is disabled in node.js v16
-- Use `async/await`
+
 
 ## Build tools:
 - npm
 - yarn
+
