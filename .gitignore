@@ -104,3 +104,4 @@ dist
 .tern-port
 
 webdriverio-for-tutorial/config/allure-results/
+webdriverio-for-tutorial/.idea
