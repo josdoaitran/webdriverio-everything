@@ -44,3 +44,7 @@ https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
 - npm
 - yarn
 
+## Plugin on Editor for Webdriverio:
+- https://plugins.jetbrains.com/plugin/16147-webdriverio
+- 
+
