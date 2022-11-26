@@ -1,3 +1,18 @@
+## Install NodeJs
+https://nodejs.org/en/download/
+https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm
+
+Check Nodejs with command: `node --version` and `nom --version`
+
+```
+❯ node --version
+v15.11.0
+
+❯ npm --version
+7.6.0
+
+```
+
 ## Create NodeJs project and all Webdriverio:
 (We setup Webdriverio version 7)
 
