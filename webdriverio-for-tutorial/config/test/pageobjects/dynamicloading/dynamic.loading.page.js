@@ -2,6 +2,10 @@ const Page = require('../page');
 
 class DynamicLoadingPage extends Page {
 
+    async open () {
+        return super.open('/dynamic_loading');
+    }
+
     get LinkTextPageHidden () {
         return $("//a[@href=\"/dynamic_loading/1\"]");
     }
@@ -11,7 +15,14 @@ class DynamicLoadingPage extends Page {
     }
 
     async clickLinkTextPageHidden(){
-        expect(this.LinkTextPageHidden).toBeClickable()
-        this.LinkTextPageHidden.click()
+        await expect(this.LinkTextPageHidden).toBeClickable()
+        await this.LinkTextPageHidden.click()
+    }
+
+    async clickLinkTextPageFact(){
+        await expect(this.LinkTextPageFact).toBeClickable()
+        await this.LinkTextPageFact.click()
     }
 }
+
+module.exports = new DynamicLoadingPage();

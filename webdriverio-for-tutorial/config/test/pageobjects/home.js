@@ -12,7 +12,7 @@ class HomePage extends Page {
     async verifyLinkText(){
         // for < v7 expect(this.linkText.toBeElementsArrayOfSize(44))
         console.log('Length of element list: %s', this.linkText.length)
-        expect(await this.linkText.length).toEqual(41)
+        expect(await this.linkText.length).toEqual(44)
     }
 }
 
