@@ -1,25 +1,25 @@
-describe('Test Example - Wait', () => {
-    it('naviate to dynamic loading page 1', () => {
+describe('Test Example - Wait', async() => {
+    it('naviate to dynamic loading page 1', async () => {
         // Access to linear script: https://the-internet.herokuapp.com/dynamic_loading/1
         const startBtn =  $("#start button");
-        const finishText = $("//div[@id='finish']/h4");
+        const finishText = $("#finish h4");
         const loading = $("#loading")
 
-        browser.url("/dynamic_loading/1");
-        startBtn.waitForDisplayed();
-        startBtn.waitForClickable();
-        expect(startBtn.isClickable());
-        startBtn.click();
+        await browser.url("/dynamic_loading/1");
+        await startBtn.waitForDisplayed();
+        await startBtn.waitForClickable();
+        await expect(startBtn.isClickable());
+        await startBtn.click();
 
-        loading.waitForDisplayed()
-        loading.waitForDisplayed({reverse: true})
+        await loading.waitForDisplayed()
+        await loading.waitForDisplayed({reverse: true})
 
         // browser.pause(9000)
 
-        finishText.waitForEnabled()
-        finishText.waitForDisplayed();
+        await finishText.waitForEnabled()
+        await finishText.waitForDisplayed();
 
-        expect(finishText.getText()).toEqual("Hello World!");
+        await expect(await finishText.getText()).toEqual("Hello World!");
 
     });
 
