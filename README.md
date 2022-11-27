@@ -48,3 +48,16 @@ https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
 - https://plugins.jetbrains.com/plugin/16147-webdriverio
 - 
 
+## Alure report:
+- Install allure report commandline with this command: `npm i allure-commandline -g`
+- In order to generate Allure report, we can run this command: `allure generate allure-results && allure open`
+```
+> allure generate allure-results && allure open
+Report successfully generated to allure-reportn
+Starting web server...
+2022-11-27 23:15:02.293:INFO::main: Logging initialized @682ms to org.eclipse.jetty.util.log.StdErrLog
+Server started at <http://192.168.1.96:50616/>. Press <Ctrl+C> to exit
+
+```
+- On your project, we will see the new folder, `allure-report` beside `allure-results` folder.
+
