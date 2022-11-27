@@ -1,5 +1,3 @@
-
-
 const Page = require('./page');
 
 /**
@@ -8,11 +6,13 @@ const Page = require('./page');
 class HomePage extends Page {
 
     get linkText () {
-        return $('//*[@id="content"]/ul/li')
+        return $$("ul li")
     }
 
     async verifyLinkText(){
-        expect(this.linkText).toBeElementsArrayOfSize(44)
+        // for < v7 expect(this.linkText.toBeElementsArrayOfSize(44))
+        console.log('Length of element list: %s', this.linkText.length)
+        expect(await this.linkText.length).toEqual(41)
     }
 }
 
