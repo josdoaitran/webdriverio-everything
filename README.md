@@ -61,3 +61,7 @@ Server started at <http://192.168.1.96:50616/>. Press <Ctrl+C> to exit
 ```
 - On your project, we will see the new folder, `allure-report` beside `allure-results` folder.
 - Clean and generate again with this commmand: `allure generate allure-results --clean && allure open`
+
+## Run in Test Suite:
+https://webdriver.io/docs/organizingsuites/
+This commmand to run in test suite: ``
