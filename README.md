@@ -64,4 +64,4 @@ Server started at <http://192.168.1.96:50616/>. Press <Ctrl+C> to exit
 
 ## Run in Test Suite:
 https://webdriver.io/docs/organizingsuites/
-This commmand to run in test suite: ``
+This commmand to run in test suite: `npx wdio wdio.conf.test.suite.js`
