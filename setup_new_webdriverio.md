@@ -55,16 +55,27 @@ We select `On my local machine`
 ❯ mocha 
   + jasmine 
   + cucumber
+
 ? Which framework do you want to use? mocha
+
 ? Do you want to use a compiler? No!
+
 ? Where are your test specs located? ./test/specs/**/*.js
+
 ? Do you want WebdriverIO to autogenerate some test files? Yes
+
 ? Do you want to use page objects (https://martinfowler.com/bliki/PageObject.html)? Yes
+
 ? Where are your page objects located? ./test/pageobjects/**/*.js
+
 ? Which reporter do you want to use? spec, allure
+
 ? Do you want to add a plugin to your test setup? wait-for
+
 ? Do you want to add a service to your test setup? chromedriver
-? What is the base url? https://automationteststore.com/
+
+? What is the base url? https://the-internet.herokuapp.com/
+
 ? Do you want me to run `npm install` Yes
 
 Installing wdio packages:
