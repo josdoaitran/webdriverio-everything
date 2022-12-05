@@ -49,6 +49,10 @@ https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
 - 
 
 ## Alure report:
+- Make sure configration on test runner: 
+```
+reporters: ['spec',['allure', {outputDir: 'allure-results'}]],
+```
 - Install allure report commandline with this command: `npm i allure-commandline -g`
 - In order to generate Allure report, we can run this command: `allure generate allure-results && allure open`
 ```
