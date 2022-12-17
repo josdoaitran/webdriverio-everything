@@ -5,6 +5,9 @@
 https://webdriver.io/
 Browser and Mobile application automation testing framework with NodeJS
 
+# Webdriverio Document:
+- Version 7: `https://v7.webdriver.io/docs/api`
+
 ## Beginer level:
 
 - Setup , Basic Javascript
