@@ -46,7 +46,7 @@ https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
 
 ## Plugin on Editor for Webdriverio:
 - https://plugins.jetbrains.com/plugin/16147-webdriverio
-- 
+- Beautiful theme for Visual Studio Code: https://monokai.pro/
 
 ## Alure report:
 - Make sure configration on test runner: 
