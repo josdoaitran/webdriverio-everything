@@ -45,7 +45,7 @@ https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
 - yarn
 
 ## Plugin on Editor for Webdriverio:
-- https://plugins.jetbrains.com/plugin/16147-webdriverio
+- IntellI: Jhttps://plugins.jetbrains.com/plugin/16147-webdriverio
 - Beautiful theme for Visual Studio Code: https://monokai.pro/
 
 ## Alure report:
