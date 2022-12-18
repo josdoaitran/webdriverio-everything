@@ -20,13 +20,14 @@ Browser and Mobile application automation testing framework with NodeJS
 - JS Framework Develop from Scratch
 - Test Runner: Cross browser, Parallel execution.
 - Reports: Allure
+- Sync vs Async mode: [Link text Here](https://webdriver.io/docs/sync-vs-async/)
 
 
 ## Advanced level:
 
 - Webdriverio + Intergrate with Browser Stack.
 - BDD with Webdriverio and test framework: [Link text Here](https://webdriver.io/docs/frameworks/)
-- Sync vs Async mode: [Link text Here](https://webdriver.io/docs/sync-vs-async/)
+
 
 
 ## NodeJs setup and Webdriverio Get started
@@ -55,6 +56,8 @@ https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
 ## Plugin on Editor for Webdriverio:
 - IntellI: Jhttps://plugins.jetbrains.com/plugin/16147-webdriverio
 - Beautiful theme for Visual Studio Code: https://monokai.pro/
+- Material Icon: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+- Cucumber
 
 ## Alure report:
 - Make sure configration on test runner: 

@@ -41,7 +41,7 @@ Log:
 /Users/doai.tran/Documents/Personal/webdriverio-everything/webdriverio-cucummber-for-tutorial/features/pageobjects/**/*.js
 ? Which reporter do you want to use? spec, allure
 ? Do you want to add a plugin to your test setup? wait-for
-? Do you want to add a service to your test setup? selenium-standalone, appium
+? Do you want to add a service to your test setup? selenium-standalone
 ? What is the base url? http://localhost
 ? Do you want me to run `npm install` Yes
 ```
