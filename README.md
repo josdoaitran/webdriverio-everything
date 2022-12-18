@@ -57,7 +57,7 @@ https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
 - IntellI: Jhttps://plugins.jetbrains.com/plugin/16147-webdriverio
 - Beautiful theme for Visual Studio Code: https://monokai.pro/
 - Material Icon: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
-- Cucumber
+- Cucumber - BDD Beautiful format: https://marketplace.visualstudio.com/items?itemName=iteratec.bdd-power-tools
 
 ## Alure report:
 - Make sure configration on test runner: 
