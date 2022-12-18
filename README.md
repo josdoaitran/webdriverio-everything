@@ -7,7 +7,7 @@ Browser and Mobile application automation testing framework with NodeJS
 
 # Version:
 - V6 and later are deprecated. https://webdriver.io/versions
--  V7 and newer with Async Await.
+- V7 and newer with Async Await.
 
 # Webdriverio Document:
 - Lasted v8: `https://webdriver.io/docs/api/browser`

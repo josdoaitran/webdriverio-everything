@@ -45,6 +45,7 @@ Log:
 ? What is the base url? http://localhost
 ? Do you want me to run `npm install` Yes
 ```
+- Install Cucumber plugin in Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official
 
 References:
 - https://webdriver.io/docs/frameworks/

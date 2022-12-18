@@ -30,6 +30,7 @@
     "@wdio/local-runner": "^8.0.13",
     "@wdio/selenium-standalone-service": "^8.0.13",
     "@wdio/spec-reporter": "^8.0.13",
+    "appium": "^1.22.3",
     "wdio-wait-for": "^3.0.1"
   }
 }
