@@ -23,7 +23,9 @@ author: JosDoaiTrab
 license: (ISC)
 ```
 - Init Webdriverio in the project: `npm init wdio .`
+
 Log:
+
 ```
 ? A project named "webdriverio-cucummber-for-tutorial" was detected at 
 "/Users/doai.tran/Documents/Personal/webdriverio-everything/webdriverio-cucummber-for-tutorial", correct? Yes
@@ -41,12 +43,17 @@ Log:
 /Users/doai.tran/Documents/Personal/webdriverio-everything/webdriverio-cucummber-for-tutorial/features/pageobjects/**/*.js
 ? Which reporter do you want to use? spec, allure
 ? Do you want to add a plugin to your test setup? wait-for
-? Do you want to add a service to your test setup? selenium-standalone
+? Do you want to add a service to your test setup? chromedriver
 ? What is the base url? http://localhost
 ? Do you want me to run `npm install` Yes
 ```
-- Install Cucumber plugin in Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official
 
-References:
+## Plugin on Editor for Webdriverio:
+- IntellI: Jhttps://plugins.jetbrains.com/plugin/16147-webdriverio
+- Beautiful theme for Visual Studio Code: https://monokai.pro/
+- Material Icon: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+- Cucumber - BDD Beautiful format: https://marketplace.visualstudio.com/items?itemName=iteratec.bdd-power-tools
+
+## References:
 - https://webdriver.io/docs/frameworks/
 - 

@@ -103,6 +103,8 @@ dist
 # TernJS port file
 .tern-port
 
-webdriverio-for-tutorial/config/allure-results/
-webdriverio-for-tutorial/config/allure-report/
+webdriverio-for-tutorial/allure-results/
+webdriverio-for-tutorial/allure-report/
 webdriverio-for-tutorial/.idea
+webdriverio-cucummber-for-tutorial/allure-results/
+webdriverio-cucummber-for-tutorial/allure-report/
