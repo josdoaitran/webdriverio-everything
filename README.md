@@ -58,6 +58,14 @@ https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
 - Beautiful theme for Visual Studio Code: https://monokai.pro/
 - Material Icon: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 - Cucumber - BDD Beautiful format: https://marketplace.visualstudio.com/items?itemName=iteratec.bdd-power-tools
+- Snippets and Syntax Highlight for Gherkin (Cucumber) https://marketplace.visualstudio.com/items?itemName=stevejpurves.cucumber
+
+## VSCode – Code Formatting Shortcuts
+The code formatting is available in Visual Studio Code (VSCode) through the following shortcuts or key combinations:
+
+- On Windows `Shift + Alt + F`
+- On macOS `Shift + Option + F`
+- On Linux `Ctrl + Shift + I`
 
 ## Alure report:
 - Make sure configration on test runner: 
