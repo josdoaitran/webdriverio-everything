@@ -57,8 +57,8 @@ https://github.com/josdoaitran/JavaScriptForTester/tree/main/basicJavascript.
 - IntellI: Jhttps://plugins.jetbrains.com/plugin/16147-webdriverio
 - Beautiful theme for Visual Studio Code: https://monokai.pro/
 - Material Icon: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
-- Cucumber - BDD Beautiful format: https://marketplace.visualstudio.com/items?itemName=iteratec.bdd-power-tools
-- Snippets and Syntax Highlight for Gherkin (Cucumber) https://marketplace.visualstudio.com/items?itemName=stevejpurves.cucumber
+- Cucumber: https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official
+
 
 ## VSCode – Code Formatting Shortcuts
 The code formatting is available in Visual Studio Code (VSCode) through the following shortcuts or key combinations:
